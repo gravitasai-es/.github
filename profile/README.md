@@ -20,6 +20,7 @@ Implantamos soluciones de IA conversacional y automatización operativa en peque
 ## Recursos abiertos
 
 - **[awesome-ia-pymes-espana](https://github.com/gravitasai-es/awesome-ia-pymes-espana)** — Lista curada de herramientas IA para pymes españolas.
+- **[geo-tracker](https://github.com/gravitasai-es/geo-tracker)** — Tracker público de citaciones en motores generativos (Perplexity) sobre consultas del sector IA para pymes.
 
 ## Contacto
 
